@@ -1,0 +1,6 @@
+description:
+  artifact-name: springcloudconfigclient
+  application-instance: all-instances-shared
+  remarks: This cross profile configuration for my application
+server:
+  port: 2030

@@ -1,0 +1,6 @@
+description:
+  artifact-name: springcloudconfigclient
+  application-instance: all-instance-default
+  remarks: This is the default configuration for all instance.
+server:
+  port: 2032
